@@ -1,4 +1,4 @@
-# 
+# Free MEV sniper bot add-ons for Mac OS | New MEV sniper bot add-ons for PC Windows. Featuring market orders and failed tx recovery — optimized for maximum performance on every platform.
 
 
 
